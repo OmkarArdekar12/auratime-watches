@@ -65,6 +65,7 @@ http://localhost:3000
 - TypeScript
 - Tailwind CSS
 - Framer Motion
+- HTML5 Canvas
 
 ---
 
