@@ -1,10 +1,10 @@
-# Aura Watches
+# AuraTime Watches
 
 **_"A luxury watch showcase that blends cinematic storytelling, timeless craftsmanship, and precision engineering into an immersive scroll-driven experience."_**
 
-## [**Live: https://aura-watches.vercel.app**](https://aura-watches.vercel.app)
+## [**Live: https://auratime-watches.vercel.app**](https://auratime-watches.vercel.app)
 
-## Aura Watches - The Art of Precision
+## AuraTime Watches - The Art of Precision
 
 ### Timeless design. Precision engineering. Crafted to accompany every moment with elegance and uncompromising quality.
 
@@ -30,13 +30,13 @@
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/OmkarArdekar12/aura-watches.git
+git clone https://github.com/OmkarArdekar12/auratime-watches.git
 ```
 
 ## 2. Navigate to the Project
 
 ```bash
-cd aura-watches
+cd auratime-watches
 ```
 
 ## 3. Install Dependencies

@@ -9,7 +9,7 @@ export type Caption = {
 
 export const captions: Caption[] = [
   {
-    text: `<span class="eyebrow">Aura Watches</span>
+    text: `<span class="eyebrow">AuraTime Watches</span>
            <h1>Time,<br/><em>Perfected.</em></h1>
            <p>Where <strong>timeless craftsmanship</strong> meets modern precision. Every detail is designed to celebrate elegance, excellence, and every passing second.</p>`,
     start: 1,
@@ -38,7 +38,7 @@ export const captions: Caption[] = [
   {
     text: `<span class="eyebrow">Precision</span>
            <h2>Every movement.<br/><em>Every second.</em></h2>
-           <p>Engineered for unwavering reliability, Aura Watches delivers accuracy you can trust and craftsmanship you can feel with every glance.</p>`,
+           <p>Engineered for unwavering reliability, AuraTime Watches delivers accuracy you can trust and craftsmanship you can feel with every glance.</p>`,
     start: 143,
     end: 190,
     position: "center",
@@ -56,14 +56,14 @@ export const captions: Caption[] = [
   {
     text: `<span class="eyebrow">Made for Every Occasion</span>
            <h2>Crafted for life's<br/><em>finest moments.</em></h2>
-           <p>Whether celebrating milestones or embracing everyday adventures, Aura Watches complements every journey with effortless sophistication.</p>`,
+           <p>Whether celebrating milestones or embracing everyday adventures, AuraTime Watches complements every journey with effortless sophistication.</p>`,
     start: 239,
     end: 280,
     position: "right",
   },
 
   {
-    text: `<span class="eyebrow">Aura Watches</span>
+    text: `<span class="eyebrow">AuraTime Watches</span>
            <h1>Every Moment,<br/><em>Beautifully Measured.</em></h1>
            <p>More than a watch. A symbol of <strong>precision</strong>, craftsmanship, and timeless elegance that stays with you for a lifetime.</p>`,
     start: 281,

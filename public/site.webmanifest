@@ -1,6 +1,6 @@
 {
-  "name": "Aura Watches - The Art of Precision",
-  "short_name": "Aura Watches",
+  "name": "AuraTime Watches - The Art of Precision",
+  "short_name": "AuraTime Watches",
   "icons": [
     { "src": "/icon-96x96.png", "sizes": "96x96", "type": "image/png" },
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
