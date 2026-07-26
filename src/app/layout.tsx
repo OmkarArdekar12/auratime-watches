@@ -105,7 +105,7 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-reel-black font-body antialiased overscroll-none">
-        <div className="grain-overlay" aria-hidden="true" />
+        <div aria-hidden="true" />
         {children}
       </body>
     </html>

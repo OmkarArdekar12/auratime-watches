@@ -53,7 +53,7 @@ body {
   position: fixed;
   inset: 0;
   pointer-events: none;
-  z-index: 60;
+  z-index: -10;
   opacity: 0;
 }
 
@@ -149,8 +149,17 @@ body {
 }
 
 .frame-canvas {
-  /* filter: brightness(1) contrast(1) saturate(1) sepia(0) hue-rotate(0deg)
-    grayscale(0) blur(0px) invert(0); */
-  filter: brightness(1.04) contrast(1.18) saturate(1.08) sepia(0.02)
-    hue-rotate(-2deg) grayscale(0) blur(0) invert(0);
+  filter: brightness(1.05) contrast(1.23) saturate(1.12) sepia(0.07)
+    hue-rotate(-2deg);
+}
+
+.frame-vignette {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(
+    ellipse 80% 75% at 50% 46%,
+    transparent 45%,
+    rgba(0, 0, 0, 0.4) 100%
+  );
 }

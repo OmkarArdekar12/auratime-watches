@@ -236,6 +236,8 @@ export default function FrameSequencePlayer({
           className="absolute inset-0 w-full h-full frame-canvas"
         />
 
+        <div className="frame-vignette" />
+
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-reel-black/75 via-reel-black/10 to-reel-black/40" />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-reel-black/55 via-transparent to-reel-black/20" />
 
