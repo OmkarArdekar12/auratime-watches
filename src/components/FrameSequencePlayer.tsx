@@ -253,7 +253,7 @@ export default function FrameSequencePlayer({
           onSeek={seekToFraction}
         />
 
-        {!firstFrameReady && (
+        {(!firstFrameReady || (firstFrameReady && loadedCount < total)) && (
           <div className="absolute inset-0 z-40 flex flex-col items-center justify-center gap-4 bg-reel-black">
             <span className="font-mono text-xs tracking-widest2 uppercase text-reel-fade">
               Preparing the Experience
@@ -264,11 +264,11 @@ export default function FrameSequencePlayer({
           </div>
         )}
 
-        {firstFrameReady && loadedCount < total && (
+        {/* {firstFrameReady && loadedCount < total && (
           <div className="absolute bottom-5 left-5 sm:bottom-8 sm:left-8 z-30 font-mono text-[0.6rem] tracking-widest2 uppercase text-reel-fade/70">
             Preparing the Experience
           </div>
-        )}
+        )} */}
       </div>
     </main>
   );
