@@ -265,10 +265,10 @@ export default function FrameSequencePlayer({
                   width: `${(loadedCount / total) * 100}%`,
                 }}
               />
-              <span className="font-mono text-[10px] tracking-[0.3em] uppercase text-reel-fade/70">
-                {Math.round((loadedCount / total) * 100)}%
-              </span>
             </div>
+            <span className="font-mono text-sm tracking-[0.3em] uppercase text-amber">
+              {Math.round((loadedCount / total) * 100)}%
+            </span>
           </div>
         )}
 
