@@ -116,6 +116,20 @@ export default function TopBar({
           {isTouring ? "Touring" : "Take the Tour"}
         </button>
       </div>
+
+      <div className="absolute bottom-1 left-1 z-30">
+        <a
+          href="https://github.com/OmkarArdekar12"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group inline-flex items-center gap-2 text-xs tracking-widest uppercase text-reel-paper/30 transition-all duration-100 hover:text-reel-paper"
+        >
+          Created by{" "}
+          <span className="text-reel-paper/45 group-hover:text-amber group-hover:font-bold transition-all duration-200">
+            Omkar Ardekar
+          </span>
+        </a>
+      </div>
     </>
   );
 }

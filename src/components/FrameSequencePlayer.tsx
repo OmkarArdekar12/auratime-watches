@@ -271,22 +271,6 @@ export default function FrameSequencePlayer({
             </span>
           </div>
         )}
-
-        {/* {(!firstFrameReady || (firstFrameReady && loadedCount < total)) && (
-          <div className="absolute inset-0 z-40 flex flex-col items-center justify-center gap-4 bg-reel-black">
-            <span className="font-mono text-xs tracking-widest2 uppercase text-reel-fade">
-              Preparing the Experience
-            </span>
-            <div className="h-[2px] w-40 overflow-hidden rounded-full bg-reel-paper/15">
-              <div className="h-full w-1/3 animate-pulse rounded-full bg-amber" />
-            </div>
-          </div>
-        )} */}
-        {/* {firstFrameReady && loadedCount < total && (
-          <div className="absolute bottom-5 left-5 sm:bottom-8 sm:left-8 z-30 font-mono text-[0.6rem] tracking-widest2 uppercase text-reel-fade/70">
-            Preparing the Experience
-          </div>
-        )} */}
       </div>
     </main>
   );
