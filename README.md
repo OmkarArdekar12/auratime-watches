@@ -71,6 +71,25 @@ http://localhost:3000
 
 ---
 
+## Explore My Website Templates:
+Looking for modern, high-performance website templates? Check out my latest creations below.
+
+1. Cinematic Website Template
+A cinematic, scroll-driven storytelling experience where every frame unfolds as you scroll-smooth, immersive, and built for any visual narrative.
+- Live Demo: https://cinematic-website-template.vercel.app
+- GitHub: https://github.com/OmkarArdekar12/cinematic-website-template
+
+2. Motion Website Template
+A motion-driven visual information experience. Every story unfolds as you scroll—smooth, cinematic, and built to showcase any topic.
+- Live Demo: https://motion-website-template.vercel.app
+- GitHub: https://github.com/OmkarArdekar12/motion-website-template
+
+3. ScrollSequence Website Template
+An immersive, scroll-driven visual story. Every frame reveals itself as you scroll - smooth, cinematic, and built to carry any topic.
+- Live Demo: https://scrollsequence-website-template.vercel.app
+- GitHub: https://github.com/OmkarArdekar12/scrollsequence-website-template
+
+
 ## Author
 
 **Omkar Ardekar**
