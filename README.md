@@ -4,6 +4,8 @@
 
 ## [**Live: https://auratime-watches.vercel.app**](https://auratime-watches.vercel.app)
 
+## [**Preview Video: https://www.youtube.com/watch?v=WWX7PQAnluM**](https://www.youtube.com/watch?v=WWX7PQAnluM)
+
 ## AuraTime Watches - The Art of Precision
 
 ### Timeless design. Precision engineering. Crafted to accompany every moment with elegance and uncompromising quality.
