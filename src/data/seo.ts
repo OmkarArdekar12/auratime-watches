@@ -23,13 +23,13 @@ export const seo = {
   themeColor: "#0B0B0C",
   backgroundColor: "#0B0B0C",
 
-  favicon: "https://auratime-watches.vercel.app/favicon.ico",
-  svgIcon: "https://auratime-watches.vercel.app/favicon.svg",
-  appleTouchIcon: "https://auratime-watches.vercel.app/apple-touch-icon.png",
-  icon96: "https://auratime-watches.vercel.app/icon-96.png",
-  icon192: "https://auratime-watches.vercel.app/icon-192.png",
-  icon512: "https://auratime-watches.vercel.app/icon-512.png",
-  manifest: "https://auratime-watches.vercel.app/site.webmanifest",
+  favicon: "/favicon.ico",
+  svgIcon: "/favicon.svg",
+  appleTouchIcon: "/apple-touch-icon.png",
+  icon96: "/icon-96.png",
+  icon192: "/icon-192.png",
+  icon512: "/icon-512.png",
+  manifest: "/site.webmanifest",
 
   robots: {
     index: true,
