@@ -77,6 +77,9 @@ export const metadata: Metadata = {
     apple: [{ url: seo.appleTouchIcon }],
   },
   manifest: seo.manifest,
+  verification: {
+    google: seo.googleCode,
+  },
 };
 
 export const viewport: Viewport = {

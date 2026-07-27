@@ -36,6 +36,8 @@ export const seo = {
     follow: true,
   },
 
+  googleCode: "cIpfNdHkzMpM_Wpuo6JXHOkMH_wEpHyrgBe_f46e5Ig",
+
   structuredData: {
     "@context": "https://schema.org",
     "@type": "WebSite",
